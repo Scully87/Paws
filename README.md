@@ -1,4 +1,4 @@
-# Paws :paw_prints:
+# :paw_prints: Paws :paw_prints:
 
 ##### :smile_cat: :cat2: Making cats happy using Swift :smile_cat: :cat2:
  
