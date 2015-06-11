@@ -1,4 +1,4 @@
-<h1 align="center"> :paw_prints: Paws :paw_prints: </h1>
+<div align="center" style="font-size:48px;"> :paw_prints: Paws :paw_prints: </div>
 
 <h3 align="center"> :smile_cat: :cat2: Making cats happy using Swift :smile_cat: :cat2: </h3>
  
