@@ -2,5 +2,5 @@
 
 <h4 align="center"> :smile_cat: :cat2: Making cats happy using Swift :smile_cat: :cat2: </h4>
  
-<img src="https://raw.githubusercontent.com/Scully87/Paws/master/paws.jpg" alt="paws" width="500" height="475">
+<img src="https://raw.githubusercontent.com/Scully87/Paws/master/paws.jpg" alt="paws" width="475" height="450">
 <img src="https://raw.githubusercontent.com/Scully87/Paws/master/paws1.png" alt="paws" width="250" height="450">
